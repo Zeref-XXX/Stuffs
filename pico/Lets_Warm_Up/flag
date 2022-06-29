@@ -1,0 +1,6 @@
+$ echo 0x70 | xxd -r -p && echo ' :  decoded'
+p :  decoded
+
+submit flag in format 
+
+picoCTF{p}
